@@ -4,7 +4,7 @@ import p1 from '../assets/p1.jpg'
 
 const Projects = () => {
         return (
-                <div name="𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜" className='md:pt-3 md:pb-28 bg-gradient-to-b from-black to-gray-800 w-full text-white'>
+                <div name="𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜" className='pb-24 md:pt-3 md:pb-28 bg-gradient-to-b from-black to-gray-800 w-full text-white'>
                         <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full'>
                                 <div className='pb-20'>
                                         <p className='text-4xl font-bold inline border-b-4 border-gray-500'>My Projects:</p>
