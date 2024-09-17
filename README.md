@@ -2,7 +2,7 @@
 
 Live view: https://pranavsoni.netlify.app
 
-Uploaded on github
+Uploaded on github <br />
 Hosted on netlify
 
 I built a beautiful and professional personal portfolio website using my frontend development skills. The goal of this project was to showcase my expertise in web development and UI/UX design, while also creating a platform that reflects my personal brand. I used modern frontend technologies like React.js, Tailwind CSS, HTML, CSS, and JavaScript to ensure the website is fast, responsive, and visually appealing. 
