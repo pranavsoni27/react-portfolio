@@ -16,8 +16,11 @@ and hosted on netlify
 # 🔧 Technologies and tools I used in this project:
 
 React.js for a dynamic, component-based architecture
+
 Tailwind CSS for clean, reusable styles and responsive design
+
 HTML & CSS for structuring and styling the content
+
 JavaScript for interactivity and seamless functionality
 
 
