@@ -24,6 +24,6 @@ HTML & CSS for structuring and styling the content
 JavaScript for interactivity and seamless functionality
 
 
-🔍 Hashtags
+# 🔍 Hashtags
 
 #frontenddevelopment #reactjs #tailwindcss #webdevelopment #personalportfolio #responsivedesign #javascript #html #css #uiuxdesign #mobilefirst #seo #websiteoptimization #webanimations #mobilefriendly #fullstackdevelopment #reactdeveloper #webdesign #frontendskills #modernwebdevelopment #githubportfolio #tailwindui #javascriptprojects #opensource #webdevjourney #portfolioshowcase #responsivewebdesign #webdevelopmentprojects
