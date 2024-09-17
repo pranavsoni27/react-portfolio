@@ -1,6 +1,7 @@
 import React from 'react'
 import wallpaper from '../assets/wallpaper.jpg'
 import p1 from '../assets/p1.jpg'
+import p4 from '../assets/quickdocmeet.png'
 
 const Projects = () => {
         return (
@@ -16,10 +17,11 @@ const Projects = () => {
                                         </div>
                                         <div>
                                                 <p className='text-3xl'><span className='text-cyan-500 font-bold'>Title: </span>Personal Portfolio Website</p>
-                                                <p className='text-xl mt-2'><span className='text-cyan-500 font-bold'>Technologies/Tools Used: </span>Html, css, javascript, react.js, tailwind, figma, github</p>
+                                                <p className='text-xl mt-2'><span className='text-cyan-500 font-bold'>Technologies/Tools Used: </span>Html, css, javascript, react.js, tailwind css, figma, github, netlify</p>
                                                 <div className='mt-2 flex ml-8 md:ml-16 gap-16'>
-                                                        <button className='text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 flex items-center rounded-md hover:scale-110 duration-300'>My Code</button>
-                                                        <button className='text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 flex items-center rounded-md hover:scale-110 duration-300'>Live Demo</button>
+                                                        <a href="https://github.com/pranavsoni27/react-portfolio.git" target='_blank'><button className='text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 flex items-center rounded-md hover:scale-110 duration-300'>My Code</button></a>
+                                                        <a href="https://pranavsoni.netlify.app" target='_blank'><button className='text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 flex items-center rounded-md hover:scale-110 duration-300'>Live Demo</button></a>
+                                                        
                                                 </div>
                                         </div>  
                                 </div>
@@ -28,14 +30,14 @@ const Projects = () => {
 
                                 <div className='flex flex-col md:flex-row gap-16 px-12'>
                                         <div className='md:w-1/2'>
-                                                <img src={wallpaper} alt="" />
+                                                <img src={p1} alt="" />
                                         </div>
                                         <div>
                                                 <p className='text-3xl'><span className='text-cyan-500 font-bold'>Title: </span>Personal Portfolio Website</p>
-                                                <p className='text-xl mt-2'><span className='text-cyan-500 font-bold'>Technologies/Tools Used: </span>Html, css, javascript, react, tailwind, figma, github</p>
+                                                <p className='text-xl mt-2'><span className='text-cyan-500 font-bold'>Technologies/Tools Used: </span>Html, css, javascript, react,js, tailwind css, figma, github, netlify</p>
                                                 <div className='mt-2 flex ml-8 md:ml-16 gap-16'>
-                                                        <button className='text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 flex items-center rounded-md hover:scale-110 duration-300'>My Code</button>
-                                                        <button className='text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 flex items-center rounded-md hover:scale-110 duration-300'>Live Demo</button>
+                                                        <a href="" target='_blank'><button className='text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 flex items-center rounded-md hover:scale-110 duration-300'>My Code</button></a>
+                                                        <a href="" target='_blank'><button className='text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 flex items-center rounded-md hover:scale-110 duration-300'>Live Demo</button></a>
                                                 </div>
                                         </div>  
                                 </div>
@@ -44,14 +46,14 @@ const Projects = () => {
 
                                 <div className='flex flex-col md:flex-row gap-16 px-12'>
                                         <div className='md:w-1/2'>
-                                                <img src={wallpaper} alt="" />
+                                                <img src={p4} alt="" />
                                         </div>
                                         <div>
                                                 <p className='text-3xl'><span className='text-cyan-500 font-bold'>Title: </span>Personal Portfolio Website</p>
-                                                <p className='text-xl mt-2'><span className='text-cyan-500 font-bold'>Technologies/Tools Used: </span>Html, css, javascript, react, tailwind, figma, github</p>
+                                                <p className='text-xl mt-2'><span className='text-cyan-500 font-bold'>Technologies/Tools Used: </span>Html, css, javascript, react.js, tailwind css, figma, github, netlify</p>
                                                 <div className='mt-2 flex ml-8 md:ml-16 gap-16'>
-                                                        <button className='text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 flex items-center rounded-md hover:scale-110 duration-300'>My Code</button>
-                                                        <button className='text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 flex items-center rounded-md hover:scale-110 duration-300'>Live Demo</button>
+                                                <a href="" target='_blank'><button className='text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 flex items-center rounded-md hover:scale-110 duration-300'>My Code</button></a>
+                                                <a href="" target='_blank'><button className='text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 flex items-center rounded-md hover:scale-110 duration-300'>Live Demo</button></a>
                                                 </div>
                                         </div>  
                                 </div>
@@ -60,14 +62,14 @@ const Projects = () => {
 
                                 <div className='flex flex-col md:flex-row gap-16 px-12'>
                                         <div className='md:w-1/2'>
-                                                <img src={wallpaper} alt="" />
+                                                <img src={p4} alt="" />
                                         </div>
                                         <div>
-                                                <p className='text-3xl'><span className='text-cyan-500 font-bold'>Title: </span>Personal Portfolio Website</p>
-                                                <p className='text-xl mt-2'><span className='text-cyan-500 font-bold'>Technologies/Tools Used: </span>Html, css, javascript, react, tailwind, figma, github</p>
+                                                <p className='text-3xl'><span className='text-cyan-500 font-bold'>Title: </span>QuickDocMeet</p>
+                                                <p className='text-xl mt-2'><span className='text-cyan-500 font-bold'>Technologies/Tools Used: </span>Html, css, javascript, react.js, tailwind css, figma, github, netlify</p>
                                                 <div className='mt-2 flex ml-8 md:ml-16 gap-16'>
-                                                        <button className='text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 flex items-center rounded-md hover:scale-110 duration-300'>My Code</button>
-                                                        <button className='text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 flex items-center rounded-md hover:scale-110 duration-300'>Live Demo</button>
+                                                <a href="https://github.com/pranavsoni27/QuickDocMeet.git" target='_blank'><button className='text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 flex items-center rounded-md hover:scale-110 duration-300'>My Code</button></a>
+                                                <a href="https://quickdocmeet.netlify.app" target='_blank'><button className='text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 flex items-center rounded-md hover:scale-110 duration-300'>Live Demo</button></a>
                                                 </div>
                                         </div>  
                                 </div>
