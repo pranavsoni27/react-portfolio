@@ -1,6 +1,8 @@
 # 🚀 Personal Portfolio Website
 
-I built a beautiful and professional personal portfolio website using my frontend development skills. The goal of this project was to showcase my expertise in web development and UI/UX design, while also creating a platform that reflects my personal brand. I used modern frontend technologies like React.js, Tailwind CSS, HTML, CSS, and JavaScript to ensure the website is fast, responsive, and visually appealing.
+Live view: https://pranavsoni.netlify.app
+
+I built a beautiful and professional personal portfolio website using my frontend development skills. The goal of this project was to showcase my expertise in web development and UI/UX design, while also creating a platform that reflects my personal brand. I used modern frontend technologies like React.js, Tailwind CSS, HTML, CSS, and JavaScript to ensure the website is fast, responsive, and visually appealing. Hosted on netlify.
 
 💡 This project challenged me to focus on minimalistic yet engaging design elements that emphasize both functionality and aesthetics. I used various animations, transitions, and modern design trends to provide a smooth and interactive experience for visitors. The layout and structure of the website were crafted with responsive design principles in mind, ensuring that the website looks perfect on devices of all sizes, whether it's a desktop, tablet, or mobile device.
 
@@ -8,9 +10,12 @@ I built a beautiful and professional personal portfolio website using my fronten
 
 ✨ Throughout the development process, I paid close attention to user experience (UX) by implementing interactive elements and intuitive navigation. Whether it's hover effects, smooth scroll animations, or dynamic content, each element is carefully designed to enhance user engagement. I also implemented SEO best practices, improving the website’s searchability and ranking potential.
 
-🔧 Technologies and tools I used in this project:
+# 🔧 Technologies and tools I used in this project:
 
 React.js for a dynamic, component-based architecture
 Tailwind CSS for clean, reusable styles and responsive design
 HTML & CSS for structuring and styling the content
 JavaScript for interactivity and seamless functionality
+
+🔍 Hashtags
+#FrontendDevelopment #ReactJS #TailwindCSS #WebDevelopment #PersonalPortfolio #ResponsiveDesign #JavaScript #HTML #CSS #UIUXDesign #MobileFirst #SEO #WebsiteOptimization #WebAnimations #MobileFriendly #FullStackDevelopment #ReactDeveloper #WebDesign #FrontendSkills #ModernWebDevelopment #GitHubPortfolio #TailwindUI #JavaScriptProjects #OpenSource #WebDevJourney #PortfolioShowcase #ResponsiveWebDesign #WebDevelopmentProjects
