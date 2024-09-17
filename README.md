@@ -23,4 +23,4 @@ JavaScript for interactivity and seamless functionality
 
 🔍 Hashtags
 
-#FrontendDevelopment #ReactJS #TailwindCSS #WebDevelopment #PersonalPortfolio #ResponsiveDesign #JavaScript #HTML #CSS #UIUXDesign #MobileFirst #SEO #WebsiteOptimization #WebAnimations #MobileFriendly #FullStackDevelopment #ReactDeveloper #WebDesign #FrontendSkills #ModernWebDevelopment #GitHubPortfolio #TailwindUI #JavaScriptProjects #OpenSource #WebDevJourney #PortfolioShowcase #ResponsiveWebDesign #WebDevelopmentProjects
+#frontenddevelopment #reactjs #tailwindcss #webdevelopment #personalportfolio #responsivedesign #javascript #html #css #uiuxdesign #mobilefirst #seo #websiteoptimization #webanimations #mobilefriendly #fullstackdevelopment #reactdeveloper #webdesign #frontendskills #modernwebdevelopment #githubportfolio #tailwindui #javascriptprojects #opensource #webdevjourney #portfolioshowcase #responsivewebdesign #webdevelopmentprojects
